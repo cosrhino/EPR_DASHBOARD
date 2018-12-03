@@ -1,0 +1,96 @@
+
+#slide-edocs
+{
+	width: 100%;
+	display: block;
+	float: left;
+}
+#slide-equest
+{
+	width: 100%;
+	display: block;
+	float: left;
+}
+#slide-worklist
+{
+	width: 100%;
+	display: block;
+	float: left;
+}
+#slide-database
+{
+	width: 100%;
+	display: block;
+	float: left;
+}
+.slide-display
+{
+	width: 100%;
+	display: block;
+	float: left
+}
+.slide-header
+{
+	text-align:center;
+	text-decoration: underline;
+}
+.database-widget
+{
+	
+	text-decoration: underline;
+	
+}
+
+div.float-box 
+{
+	float: left;
+    margin: 3px;
+
+}
+div.button-js-do
+{
+	border: darkgreen solid 1px;
+	width: 98%;
+	margin: 2px;
+	padding:2px;
+}
+div.dont
+{
+	border: red solid 1px;
+	width: 98%;
+	margin: 2px;
+	padding:2px;
+}
+
+.monitordata 
+{
+    background-color: white;
+    color: black;
+    font: 12pt;
+    text-align: center;
+    align-content: center;
+    border-bottom: dashed black 1px;
+}
+
+.GridViewStyle {
+    text-transform: capitalize;
+	display: inline-block;
+
+}
+td.databasecat {
+	text-transform: capitalize;
+	border-bottom: black 1px solid;
+	padding: 1px;
+	font-size:  8pt;
+	text-overflow: ellipsis; 
+}
+tH.databasecathead {
+	text-transform: capitalize;
+	background-color: yellow;
+	color: black;
+	padding: 1px;
+	margin: 1px;
+	border: 1px solid black;
+	font-size:  8pt;
+	text-overflow: ellipsis; 
+}
